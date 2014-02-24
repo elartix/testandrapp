@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="navigation_drawer_item_title">#ffffffff</color>
+    <color name="counter_text_color">#ffffffff</color>
+
+    <color name="navigation_drawer_bg">#ff000000</color>
+    <color name="navigation_drawer_counter_text_bg">#ff2a597b</color>
+
+</resources>
+

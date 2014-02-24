@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OfficeViewer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="navigation_drawer_items">
+        <item name="title_section1">Section 1</item>
+        <item name="title_section2">Section 2</item>
+        <item name="title_section3">Section 3</item>
+        <item name="title_section4">Section 4</item>
+        <item name="title_table_view">Section Table</item>
+        <item name="title_datagrid_view">Section DataGrid</item>
+    </string-array>
+
+    <string name="title_default_section">Default Section</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_table_view">Section Table</string>
+
+    <string name="navigation_drawer_item_icon_desc">Item Icon</string>
+
+</resources>
